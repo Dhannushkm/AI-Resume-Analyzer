@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pdfplumber
+pytesseract
+pdf2image
+pillow
+scikit-learn
+pandas
+requests
